@@ -4,3 +4,7 @@ pydantic==2.8.2
 python-dotenv==1.0.1
 requests==2.32.3
 
+# Added for Polymarket trading client and signing
+eth-account==0.11.2
+py-clob-client==1.2.5
+
