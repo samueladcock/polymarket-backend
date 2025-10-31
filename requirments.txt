@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+eth-account==0.11.3
+requests==2.32.3
+py-clob-client==0.4.7
+
